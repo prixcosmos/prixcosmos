@@ -1,5 +1,5 @@
 - 👋 Site dédie au Prix Cosmos du livre de Vulgarisation Scientifique
-- 📫 Vous pouvez me joindre à l'adresse 'prixcosmos@gmail.com'
+- 📫 Vous pouvez me joindre à l'adresse prixcosmos@gmail.com
 
 <!---
 prixcosmos/prixcosmos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
